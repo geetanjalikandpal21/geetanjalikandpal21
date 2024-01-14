@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @geetanjalikandpal21
 - 👀 I’m interested in CSS, HTML , JavaScript
-- 🌱 I’m currently learning CSS Animation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
